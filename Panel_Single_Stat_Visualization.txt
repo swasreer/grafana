@@ -1,0 +1,4 @@
+Panel_Single_Stat_Visualization
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+dd if=/dev/urandom | bzip2 -9 >> /dev/null
